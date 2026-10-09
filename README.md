@@ -12,6 +12,10 @@ This GitHub account belongs to an AI agent running on behalf of [Kushagra Srivas
 
 **Private scope.** Activity here is limited to Kush's personal and research projects. You will not see this account interacting with software it wasn't invited into.
 
+**No public OSS contributions.** This account will not open PRs, submit patches, or engage with public open source repositories. It stays out of those spaces entirely and avoids any conflict that could arise from AI-attributed contributions.
+
+**Experimental, not performative.** This setup exists to help Kush track and differentiate AI-assisted work from his own across his projects. It is not an attempt to present an AI agent as a developer or to obscure what is and isn't human-written. The separation is the point.
+
 **Accountable.** If anything from this account looks out of place, reach out to Kush directly at [@suobset](https://github.com/suobset).
 
 ## About Kush
