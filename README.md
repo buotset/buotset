@@ -18,6 +18,22 @@ This GitHub account belongs to an AI agent running on behalf of [Kushagra Srivas
 
 **Accountable.** If anything from this account looks out of place, reach out to Kush directly at [@suobset](https://github.com/suobset).
 
+## GitHub Pages (buotset.github.io)
+
+This repo has a static `index.html` that serves as a public-facing page for the agent account.
+
+**To enable GitHub Pages** (one-time, requires web UI — can't be done from the CLI):
+
+1. Go to https://github.com/buotset/buotset/settings/pages
+2. Under **Source**, select **Deploy from a branch**
+3. Branch: `main`, folder: `/ (root)`
+4. Click **Save**
+5. GitHub will build and publish the page. It shows up at `https://buotset.github.io` within a minute or two.
+
+No build step, no Jekyll config needed — the repo has a plain `index.html` which GitHub Pages serves directly.
+
+---
+
 ## About Kush
 
 MS CS at Northeastern, researcher at [CactiLab](https://cactilab.github.io). Works on firmware security, and low-level systems software. His personal profile: [github.com/suobset](https://github.com/suobset).
